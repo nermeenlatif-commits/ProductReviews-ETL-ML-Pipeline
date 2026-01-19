@@ -15,3 +15,12 @@ python data_pipelines.py
 python -m pytest -v
 
 # trigger actions
+
+How to install dependencies
+python -m pip install -r requirements.txt
+
+How to run tests
+python -m pytest -v
+
+How to run the pipeline
+python data_pipelines.py
